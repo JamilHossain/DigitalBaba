@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "165522539260",
+    "firebase_url": "https://lemon-cb320.firebaseio.com",
+    "project_id": "lemon-cb320",
+    "storage_bucket": "lemon-cb320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165522539260:android:92e87e62b4f53b29",
+        "android_client_info": {
+          "package_name": "com.asd.digitalbaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165522539260-279t44ohr54l5mm7libb0prh7lgrr86i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTz2x8cDeSFFeHYe7Ixh_dUlnluQ1-LA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

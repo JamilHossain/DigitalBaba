@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1040709113344",
+    "firebase_url": "https://supportify-40278.firebaseio.com",
+    "project_id": "supportify-40278",
+    "storage_bucket": "supportify-40278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040709113344:android:4e99d969f2853325",
+        "android_client_info": {
+          "package_name": "com.icanstudioz.supportify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040709113344-t6ouds7e8sq583qh8k37l69uojs805nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhPRAfkEaPQCw3Fv6WORUdkyYV42v48A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
