@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DigitalBaba.iml" filepath="$PROJECT_DIR$/DigitalBaba.iml" />
       <module fileurl="file://$PROJECT_DIR$/SupportifySDK/SupportifySDK.iml" filepath="$PROJECT_DIR$/SupportifySDK/SupportifySDK.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatkit/chatkit.iml" filepath="$PROJECT_DIR$/chatkit/chatkit.iml" />
     </modules>
   </component>
 </project>

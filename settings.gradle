@@ -1,1 +1,1 @@
-include ':app', ':SupportifySDK'
+include ':app', ':SupportifySDK', ':chatkit'

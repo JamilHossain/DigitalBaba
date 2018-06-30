@@ -37,6 +37,7 @@ dependencies {
     implementation 'com.github.wooplr:Spotlight:1.2.3'
 
     implementation project(path: ':SupportifySDK')
+    implementation project(path: ':chatkit')
 
 
 }
